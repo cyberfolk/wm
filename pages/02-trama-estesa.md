@@ -98,7 +98,7 @@ cancellazione della realtà originale.
 
 # **Trama - Schema**
 
-![timeline.png](img%2Ftimeline.png)
+![timeline.png](../img/pages/timeline.png)
 
 - **S = Strappo**
   Momento in cui le società segrete riescono a strappare una parte del tempo dalla realtà ed imbrigliarlo in una

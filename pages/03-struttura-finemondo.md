@@ -9,7 +9,7 @@ sottostante.*
 - L’esagono Blu al centro è dove risiede la Forza Arcana (NN)
 - La parte Gialla è la Cieca Eternità che collega le Macro-aree.
 
-![macroaree.png](img%2Fmacroaree.png)
+![macroaree.png](../img/pages/macroaree.png)
 
 ## **Il Centro del Fine Mondo**
 
@@ -32,7 +32,7 @@ Al centro di ogni Macro Area vi è un Tempio del Tempo Perduto circondato da una
 
 I giocatori quando vengono rapiti dalla Forza Arcana vengono scaraventati in un Tempio del Tempo Perduto.
 
-![quadranti.png](img%2Fquadranti.png)
+![quadranti.png](../img/pages/quadranti.png)
 
 ### **Barriere Protettive**
 

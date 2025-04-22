@@ -1,6 +1,6 @@
 # Abitanti Finemondo
 
-![abitanti-finemondo.png](img%2Fabitanti-finemondo.png)
+![abitanti-finemondo.png](../img/pages/abitanti-finemondo.png)
 
 ## **I Piovuti**
 

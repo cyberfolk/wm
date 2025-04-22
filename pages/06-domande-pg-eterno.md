@@ -17,8 +17,8 @@
 - Tu che ci fai qui?
 - Ce ne sono stati altri prima di me?
 - Chi sono i cattivi?
-- Cos'è sto posto
-- Chi ti ha messo qui
+- Cos'è sto posto?
+- Chi ti ha messo qui?
 - Come mai se sei il custode non ricordi nulla?
 - Tempio di che divinità?
 - Se non usciamo in missione? Morirete di fame.
