@@ -1,0 +1,18 @@
+Nome ENG,Nome ITA,Nome slug,GS,CA,PF,Immunità Danni,Mente aliena,Immunita Condizioni,Sensi,Passivo,
+Eldrazi Spown,Progenie Eldrazi,progenie_eldrazi,"0,125",8,5,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,Chi è adiacente CD 8 o subisce 1d4 danni. La creatura guadagna vita pari ai danni fatti,TXC +2 -> Danni 1d4-1
+Blisterpod,Spora Vescicolare,spora_vescicolare,"0,5",12,19,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,Quando Muore nasce una progenie,TXC +4 -> Danni 1d8
+Eldrazi Scion,Discendente Eldrazi,discendente_eldrazi,1,12,45,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,TXC + 5 -> Danni 2d6+3 (gittata 2m) CD 16 o la creatura è afferrata
+Sludge Crawler,Strisciante della Fanghiglia,strisciante_della_fanghiglia,1,12,18,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Fathom Feeder,Divoratore delle Profondità,divoratore_delle_profondità,2,13,23,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Reaver Drone,Parassita Razziatore,parassita_razziatore,2,13,44,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Mist Intruder,Invasore delle Brume,invasore_delle_brume,3,13,30,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Sky Scourer,Perlustratore dei Cieli,perlustratore_dei_cieli,3,15,41,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Tide Drifter,Vagabondo delle Maree,vagabondo_delle_maree,3,17,52,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Culling Drone,Parassita Vagliatore,parassita_vagliatore,4,14,39,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Forerunner,Precursore del Massacro,precursore_del_massacro,4,13,65,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Brood Monitor,Sorvegliante della Covata,sorvegliante_della_covata,7,12,126,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Blood Buthcer,Macellaio della Covata,macellaio_della_covata,9,14,184,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Sire of Stagnation,Progenitore del Ristagno,progenitore_del_ristagno,17,18,310,Psichico,Vantaggio TS SAG,"Accecato, Affascinato",Vista cieca 9m,,
+Emrakul,,,,,,,,,,,
+Kozilek,,,,,,,,,,,
+Ulamog,,,,,,,,,,,
