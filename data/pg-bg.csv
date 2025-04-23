@@ -1,13 +1,13 @@
-Nome PG,Origine,Categoria,Categoria Focus,Motivazione
-Kieran il Fuggitivo,Ex comandante mercenario,Scappa,Tradimento e senso di colpa,"Ha tradito il suo signore per salvare un villaggio, ora √® braccato dai suoi ex compagni."
-Lysara la Veggente,Oracolo di una citt√† in rovina,Terrore,Visione di entit√† cosmica,Una visione le ha mostrato l‚Äôarrivo di una creatura cosmica che la divorer√†.
-Jorik l‚ÄôInquisitore,Ex studioso della magia proibita,Ossessione,Grimorio divino perduto,Vuole ricostruire un grimorio perduto che si dice contenga il segreto per diventare un dio.
-Nyx l‚ÄôOmbra,Ladra e spia in fuga,"Scappa, Cerca",Artefatto maledetto e minaccia sconosciuta,Ha rubato un artefatto maledetto e ora un‚Äôentit√† lo reclama.
-Kaelion,Guerriero Mercenario,Scappa,Missione fallita e citt√† incendiata,Fuggito dopo aver causato l‚Äôincendio di un'intera citt√† durante una missione fallita.
-Syra,Cacciatrice di Tesori,Terrore,Profezia di morte da un dio,Ossessionata da una profezia che annunciava la sua morte per mano di un ‚Äúdio azzurro‚Äù.
-Varn,Arcanista Espulso,Ossessione,Tomo proibito,Cerca ossessivamente un tomo proibito
-Elira,Ladra Redenta,Cerca,Sorella scomparsa,Vuole ritrovare la sorella scomparsa anni fa in circostanze misteriose.
-Drogan,Capitano di Guardia Cittadina,"Scappa, Cerca",Condanna a morte e figlio rapito,"Sfuggito a una condanna a morte, cerca il figlio rapito da cultisti"
-Kael Bracciorosso,Mercenario fallito da Avernus,Scappa,Tradito dai suoi compagni,"Vuole trovare un luogo dove ricostruire una vita, lontano da chi lo vuole morto."
-Miriel Silversong,Ladra elfa del Sottosuolo,Cerca,Gemello scomparso,"Ha intravisto in una visione il fratello, imprigionato da qualche parte"
-Gronk Testabruciat,Gladiatore di un‚Äôarena extraplanare,Ossessione,Artefatto perduto,Sente una chiamata nella mente: una spada leggendaria lo attende da qualche parte in quel mondo.
+;Nome PG;Origine;Categoria;Categoria Focus;Motivazione
+OK;Kieran;Ex capitano della guardia cittadina;In Fuga;Traditore del regno;"Ha tradito il suo signore, ora Ë braccato dai suoi ex compagni."
+OK;Lysara la Veggente;Oracolo di una citt‡ in rovina;Terrore;Visioni dell'apocalisse;"Ha avuto visioni di un entit‡ cosmica che avrebbe divorato il suo regno, nessuno le credeva nonostante continuasse a vedere i segni della profezia."
+OK;Jorik líInquisitore;Ex studioso della magia proibita;Ossessione;Recuperare Artefatti Netheresi;"Vuole a tutti i costi mettere le mani sugli antichi artefatti netheresi, ma Ë stato bandito dalle rovine di Netheril."
+OK;Kaelion;Paladino decaduto;Ossessione;Dalla redenzione;Per colpa sua sono morti centinaia di innocenti
+OK;Varn;Arcanista Espulso;Ossessione;Pratiche illecite;"Ë stato bandito dagli ordini dei maghi per la su immoralit‡, cerca un nuovo inizio"
+OK;Gronk Testabruciat;Gladiatore di uníarena extraplanare;Ossessione;Artefatto perduto;Sente una chiamata nella mente: una spada leggendaria lo attende da qualche parte in quel mondo.
+;;;;;
+Bell'idea ma ad ora non funziona;Nyx líOmbra;Ladra e spia in fuga;"Scappa, Cerca";Ha rubato un artefatto maledetto;"All'inizio pensava fosse una bacchetta, ma in realt‡ era il dito di Vecna, e la divinit‡ cercava di manipolare il PG."
+Bell'idea ma ad ora non funziona;Syra;Cacciatrice di Tesori;Terrore;Ha rubato un oggetto maledetto;L'unico modo che ha per liberarsi Ë fare X
+Bell'idea ma ad ora non funziona;Elira;Ladra Redenta;Cerca;;Sorella scomparsa
+Bell'idea ma ad ora non funziona;Kael Bracciorosso;Chierico di Pelor;Scappa;Abbandonato nell'Avernus;Tradito dai suoi compagni di party
+Bell'idea ma ad ora non funziona;Miriel Silversong;Ladra elfa del Sottosuolo;Cerca;Parente scomparso;"Ha intravisto in una visione il fratello, imprigionato da qualche parte"
