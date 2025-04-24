@@ -1,21 +1,29 @@
-# Genera PG BG breve
+# Genera Background Brevi per 5 PG
 
-Fammi l'esempio di BG per 5 PG diversi. Molto brevi e schematici.
-Restituiscimi i dati attraverso con queste colonne:
-Nome PG; Origine; Categoria; Focus Categoria; Motivazione
+Genera 5 personaggi diversi con background molto brevi e schematici.
+Restituisci i dati in tabella con le seguenti colonne:
 
-Origine = Chi era prima di arrivare nel Finemondo  
-Categoria = [Scappa, Terrore, Ossessione, Cerca]
+1. Nome PG
+2. Origine → Chi era prima di arrivare nel Finemondo
+3. Categoria → Una delle seguenti: Scappa, Terrore, Ossessione, Cerca
+4. Focus Categoria → Espansione della categoria, in 3–7 parole
+5. Motivazione → Deve rispettare tutti i seguenti vincoli:
 
-MOTIVAZIONE = Un motivo da dare al giocatore per continuare ad'esplorare il finemondo, senza che il PG conosca nulla
-della trama del Finemondo, e del tempio del tempo. in altre parola una motivazione per continuare ad esplorare quel
-luogo sconosciuto dove è precipitato senza sapere nemmeno perchè è stato precipitato li.
+## Requisiti per la Motivazione:
 
-CATEGORIE SPIEGATE MEGLIO:
+- Deve nascere da un evento o desiderio personale del PG.
+- Il PG non sa nulla del Finemondo, del Tempio del Tempo o della Forza Arcana.
+- Il desiderio di esplorare deve essere spontaneo e personale (no messaggi, visioni, divinità).
+- Non deve contenere anticipazioni della trama.
+- Il PG è caduto in un luogo sconosciuto e ignora il motivo.
+- Deve essere autosufficiente: funziona anche nel disorientamento iniziale.
+- Deve motivare il PG a uscire in missione più volte, anche senza sapere cosa troverà.
+- Deve essere coerente con una campagna a episodi e progressiva.
 
-- Scappa = Scappa da qualcosa (un nemico, un evento catastrofico, un fallimento personale…)
-- Terrore = Ha terrore di qualcosa (una profezia, un’entità sconosciuta, una verità nascosta…)
-- Ossessione = È ossessionato da qualcosa (conoscenza proibita, vendetta, un artefatto…)
-- Cerca = Cerca qualcosa disperatamente (un oggetto, una persona, il suo passato…).
+## Categorie (spiegate meglio):
 
+- Scappa → Fugge da nemico, catastrofe, fallimento…
+- Terrore → Ha paura di profezia, entità, verità…
+- Ossessione → È ossessionato da conoscenza, vendetta, artefatto…
+- Cerca → Cerca oggetto, persona, identità, passato…
 
