@@ -4,7 +4,7 @@ Genera 5 personaggi diversi con background molto brevi e schematici.
 Restituisci i dati in tabella con le seguenti colonne:
 
 1. Nome PG
-2. Origine → Chi era prima di arrivare nel Finemondo
+2. Identità → Chi era prima di arrivare nel Finemondo
 3. Categoria → Una delle seguenti: Scappa, Terrore, Ossessione, Cerca
 4. Focus Categoria → Espansione della categoria, in 3–7 parole
 5. Motivazione → Deve rispettare tutti i seguenti vincoli:
