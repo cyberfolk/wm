@@ -9,11 +9,15 @@ Ogni motivazione deve rispettare tutti i seguenti criteri:
   sapere cosa troverà là fuori.
 - **Origine Personale**: Deve nascere da un evento passato o da un desiderio profondo del personaggio.
 - **Contesto Ignoto**: Il PG è precipitato in un mondo sconosciuto, senza sapere come o perché. La motivazione deve
-  funzionare anche nel disorientamento iniziale.
-- **Nessuna Reference**: Non può citare il Finemondo, il Tempio del Tempo, la Forza Arcana o altri elementi
+  funzionare anche nel disorientamento iniziale, senza dipendere da conoscenze pregresse.
+- **Nessuna Reference**: Non può citare il Finemondo, il Tempio del Tempo, la Forza Arcana o altri elementi specifici
   legati alla trama delle West Marches.
-- **Ragione di vita**: La motivazione deve spingere il PG a non abbattersi e avere ancora una ragione di vivere anche se
-  viene strappato dal suo contesto.
+- **Ragione di vita**: Deve spingere il PG a non abbattersi e avere ancora una ragione di vivere anche se viene
+  strappato dal suo contesto originario.
+- **Nuova Vita**: Deve spingere il PG a recidere con il passato, abbracciare il cambiamento e costruire una nuova vita
+  nel mondo ignoto.
+- **Il passato è passato**  ?Vietato basare la Motivazione sulla speranza di ritrovare persone, oggetti o luoghi del
+  proprio passato.
 
 ### TAG
 
