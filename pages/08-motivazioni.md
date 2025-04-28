@@ -16,8 +16,10 @@ Ogni motivazione deve rispettare tutti i seguenti criteri:
   strappato dal suo contesto originario.
 - **Nuova Vita**: Deve spingere il PG a recidere con il passato, abbracciare il cambiamento e costruire una nuova vita
   nel mondo ignoto.
-- **Il passato è passato**  ?Vietato basare la Motivazione sulla speranza di ritrovare persone, oggetti o luoghi del
+- **Il passato è passato**: Vietato basare la Motivazione sulla speranza di ritrovare persone, oggetti o luoghi del
   proprio passato.
+- **Spinta Compatibile**: Non deve presupporre che nel nuovo mondo esistano tracce, segreti, oggetti o informazioni del
+  passato.
 
 ### TAG
 
