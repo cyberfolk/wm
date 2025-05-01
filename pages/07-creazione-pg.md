@@ -3,11 +3,10 @@
 > _Qui nessuno arriva per caso. Siete stati strappati dal vostro mondo e catapultati in un luogo che non conoscete,
 senza sapere il perché. Non ci sono visioni divine, né profezie da seguire. Solo voi, i vostri ricordi, e una ragione
 personale per sopravvivere e andare avanti._
----
 
 ## 1. Definisci la tua Identità
 
-Usa [ 10 ~ 20 parole](https://contacaratteri.it/) per descrivere chi fosse il tuo PG prima di arrivare qui.   
+Usa [ 10 ~ 30 parole](https://contacaratteri.it/) per descrivere chi fosse il tuo PG prima di arrivare qui.   
 Scegli un’**Identità** forte, qualcuno abituato a sporcarsi le mani, ad agire e a prendere decisioni. Qualcuno
 capace di affrontare l’ignoto.
 
@@ -30,5 +29,4 @@ Una motivazione ben costruita deve soddisfare i seguenti punti:
 4. **Il passato è passato** &rarr; La motivazione non dovrebbe basarsi sull’esistenza di elementi del passato nel nuovo
    mondo (come persone, luoghi, oggetti o segreti)[^1].
 
----
 [^1]: In casi eccezionali e con valide motivazioni, può venire permesso previo accordo con il DM.
