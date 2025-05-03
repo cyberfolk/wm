@@ -139,3 +139,122 @@ riconosce.
 > Bello
 
 ---
+
+# Serak il Dissacrante [Gilda Athar]
+
+_Umano - Chierico_
+
+Un tempo archivista del Tempio di Oghma, Serak abbandonò la fede dopo aver scoperto un antico libro che dimostrava
+l'inganno delle divinità. Perseguitato come eretico, si votandosi a svelare l’inganno divino.
+
+Spinto da una ferrea volontà di liberare le menti dalla schiavitù del culto, Serak affronta l’ignoto per smascherare
+ogni potere che si proclami assoluto. Nulla è sacro ai suoi occhi, eccetto la ricerca della verità.
+
+> Buono
+
+---
+
+# Kael - Il Codificatore [Gilda Fratellanza dell'Ordine]
+
+_Umano - Mago_
+
+Archivista di una gilda minore sul piano materiale, Kael fu screditato dopo aver provato a dimostrare che certi
+incantesimi proibiti non erano malvagi, ma solo mal compresi. Umiliato e radiato, cadde in una spirale di ossessione,
+fino a scoprire i testi di una setta che vedeva l’universo come una macchina ordinata.
+
+Ora Kael è deciso a svelare le regole nascoste dietro ogni anomalia. Non accetta misteri né miracoli: vuole conoscere
+ogni legge, riscrivere quelle sbagliate, e forzare la realtà a rispondere alla logica.
+
+> Buono
+
+---
+
+# Mharvek - L’Incrinato [Gilda Doomguard]
+
+_Tiefling - Guerriero_
+
+Un tempo guardia cittadina in un regno minacciato da guerre e carestie, Mharvek credeva nel dovere e nella stabilità. Ma
+quando il suo villaggio fu lasciato bruciare per ordine dei nobili, qualcosa si ruppe: non nel mondo, ma in lui.
+
+Da allora ha smesso di rattoppare ciò che cade. Ha compreso che ogni struttura è destinata al collasso e che resistere
+all’entropia è inutile. Non combatte più per la legge, ma per assistere — o accelerare — la fine di ciò che non merita
+più di esistere.
+
+> Bello
+
+---
+
+# Dheran - Il Redentore di Ferro [Gilda Mercykillers]
+
+_Nano - Paladino_
+
+Cresciuto in un villaggio dove i ricchi compravano l’impunità e i poveri pagavano col sangue, Dheran fu costretto a
+vendicare da solo la morte della sorella, assassinata da un nobile mai processato. Il castigo non lo guarì, ma lo fece
+rinascere.
+
+Da allora ha giurato fedeltà a un’idea di giustizia assoluta, superiore agli uomini e agli dèi. Non odia i colpevoli, li
+punisce. Non consola le vittime, ristabilisce l’equilibrio. Ogni missione è un processo; ogni colpa, una sentenza da
+eseguire.
+
+> Bello
+
+---
+
+# Jarek - L’Uniforme [Gilda Harmonium]
+
+_Umano - Guerriero_
+
+Cresciuto in una città-stato dilaniata da faide tra gilde, Jarek lavorava come mercenario per chi pagava meglio. Un
+giorno scortò un carico d’armi che finì nelle mani sbagliate. Due giorni dopo, scoppio una rivoltà e la sua promessa
+sposa mori proprio a causa di quelle armi, la vità di Jarek si spezzò e i suoi progetti per il futuro sfumarono.
+
+Da quel momento ha scelto: meglio un ordine duro che il caos senza colpa. La libertà è un lusso che porta guerra; la
+disciplina, l’unico modo per evitare nuovi errori. Se la gente non sa vivere insieme, allora va obbligata a farlo.
+
+> Molto bello
+
+---
+
+# Nyssa la Rinnegata
+
+_Tiefling - Warlock_
+
+Cresciuta tra le ombre di un culto esoterico, Nyssa fu addestrata a rinunciare a sé stessa per servire un entità
+sconosciute. Riuscì a fuggire da un rituale in cui tutti i suoi compagni vennero sacrificati. Ma da quel giorno una voce
+spettrale le parla nella testa.
+
+Non cerca redenzione né vendetta: vuole solo sopravvivere. Ma la voce nella sua testa le sussurra che la sua vita è
+rubata, e che solo il sangue altrui può salvarla. La lusinga con promesse di potere, la stuzzica, la insidia. Nyssa
+resiste. Ma ha paura di scoprire che, in fondo, una parte di lei ci crede.
+
+> Bello
+
+---
+
+# Dorran “Scudoinfranto”
+
+_Umano - Combattente_
+
+Dorran ha vissuto anni al fronte, tra sangue e fango, fino al crollo finale: un’armata distrutta, compagni sepolti,
+ideali svaniti. Disertò all’ultimo assalto, senza guardarsi indietro, con addosso solo cicatrici e silenzio.
+
+Non combatte più per bandiere o ordini. Lotta per tenere le mani occupate, e la mente lontana dal ricordo. Ogni missione
+è un diversivo. Ogni battaglia, una distrazione dal crollo. Se resta fermo, impazzisce. Allora combatte.
+
+> Molto bello.
+
+---
+
+# Elthea
+
+_Elfa - Chierica_
+
+Un tempo oracolo in una corte che non volle ascoltarla. Elthea profetizzò l’arrivo di una fame cosmica, antica e
+inevitabile. Fu scacciata come eretica. Poco dopo, la città svanì. Senza urla, senza resti. Solo il silenzio.
+
+Non cerca conferme, né vendetta. Vuole solo essere pronta. I segni le dicono che ciò che ha divorato la sua terra sta
+per tornare. Interpreta ogni visione, ogni frammento, come parte di un disegno più ampio. Vuole decifrarlo prima che sia
+troppo tardi. Per salvare sé stessa. E chiunque sia disposto ad ascoltarla.
+
+> Buono.
+

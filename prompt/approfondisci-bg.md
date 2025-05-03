@@ -15,7 +15,6 @@ Io ti fornirò un Background di un PG costituito da:
 Mantieni fede alle linee guida dei file:
 
 - 07-creazione-pg.md
-- 08-motivazioni.md
 
 ## Compito:
 
@@ -41,8 +40,6 @@ _Razza - Classe_
 origine_espansa
 
 motivazione_espansa
-
-> breve auto-commento | voto auto-attribuito 1-10
 ```
 
 ## Feedback (Opzionale)
